@@ -1,6 +1,6 @@
 # Node Catapult
 
-A boilerplate starter project that includes Node, Express, Browserify, and Mithril:
+A boilerplate starter project that includes Node, Express, Browserify, and MVC:
 
 * Minimal - Understand everything.
 * Efficient - Great defaults for development and production.
