@@ -3,7 +3,7 @@ var express = require('express')
 var app = express()
 
 //provide a browserified file at a path
-var shared = ['mithril']
+var shared = ['angular']
 app.get('/js/vendor-bundle.js', browserify(shared))
 app.get('/js/app-bundle.js', browserify('./client/app-bundle/index.js', { external: shared }))
 
