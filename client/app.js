@@ -1,7 +1,6 @@
 'use strict';
 
-angular
-  .module('myApp', [
+angular.module('myApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
