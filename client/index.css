@@ -1,0 +1,22 @@
+h1{
+	color: #2380E2;
+	font-family: sans-serif;
+}
+
+.button {
+  background: #639FDE;
+  border-radius: 28px;
+  font-family: sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+
+.jumbotron{
+	background-color: #dcdcdc;
+	text-align: center;
+	border-radius: 2px;
+}
