@@ -3,7 +3,7 @@ h1{
 	font-family: sans-serif;
 }
 
-.button {
+.btn {
   background: #639FDE;
   border-radius: 28px;
   font-family: sans-serif;
@@ -12,6 +12,10 @@ h1{
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   text-align: center;
+}
+
+.btn:hover{
+  background-color: #2380E2;
 }
 
 
