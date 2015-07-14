@@ -2,9 +2,9 @@
 
 A boilerplate starter project that includes Node, Express, and Angular:
 
-* Minimal - Understand everything.
-* Efficient - Great defaults for development and production.
-* Rapid - Get started immediately.
+* Lightweight - Comprehend everything.
+* Logical - Firm basics for development and production.
+* Swift - Get started immediately.
 
 ## Getting Started
 
@@ -17,3 +17,6 @@ $ npm start
 ```
 
 Now visit [localhost:4000](http://localhost:4000/)
+
+## Credits
+Inspired by the original Node-Catapult developed by mindeavor found at: https://github.com/mindeavor/node-catapult
