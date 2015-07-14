@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
 ./node_modules
->>>>>>> 23e1ab17d5f71e8c9bd78efa910458a319ef76c4
 node_modules
+./client/lib
+client/lib
