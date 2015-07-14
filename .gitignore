@@ -1,4 +1,2 @@
-./node_modules
-node_modules
-./client/lib
-client/lib
+node_modules/
+client/lib/
