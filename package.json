@@ -1,7 +1,8 @@
 {
   "name": "MyApp",
-  "private": true,
+  "version": "1.0.0",
   "main": "server/index.js",
+  "description": "A rapid project starter for Node, Express and Angular.",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -9,7 +10,14 @@
     "express": "^4.13.1",
     "nodemon": "^1.3.7"
   },
+  "author": "Dan <dan.corman@gmail.com>",
+  "license": "MIT",
   "scripts": {
-    "start": "./node_modules/.bin/nodemon server/index.js --ignore client/ --ignore node_modules/"
-  }
+    "start": "./node_modules/.bin/nodemon server/index.js --ignore client/ --ignore node_modules/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/dyale/node-catapult-angular/issues"
+  },
+  "homepage": "https://github.com/dyale/node-catapult-angular/"
 }
